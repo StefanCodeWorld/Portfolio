@@ -1,0 +1,23 @@
+Napraviti popularnu igru sokoban u kojoj je cilj namestiti sve kutije na odgovarajuce pozicije i time preci nivo. 
+Kako bi smo uspesno napravili ovu video igru potrebno je napraviti sledece:
+1. Napraviti nekoliko nivoa.
+2. Podesiti pozicije na kojima je potrebno namestiti kutije.
+3. Izmeriti vreme koje je bilo potrebno da se nivo predje.
+4. Otkljucati naredni nivo tek nakon sto je prethodni nivo uspesno odigran.
+5. Izbaciti win panel onog momenta kada su sve kutije postavljene na svoje odgovarajuce pozicije.
+6. Izbaciti lose panel onog momenta kada je neku od kutija nemoguce pozicionirati na odgovarajucu poziciju. (BONUS)
+7. Napraviti mogucnost resetovanja trenutnog levela.
+8. Napraviti save system gde se progress cuva nakon svakog nivoa.
+
+
+
+
+* Napraviti pomeranje karaktera
+	1. Karakter se pomera po jedno polje levo,desno,gore ili dole
+	2. Karakter ne moze da prolazi kroz zidove
+	3. Karakter moze da gura kutiju kroz nivo
+		a. Kutija ne moze da prodje kroz zid
+		b. Kutija ne moze da gura drugu kutiju
+
+* Detektovanje pobede
+* Save system
